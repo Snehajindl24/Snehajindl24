@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Q8uE5oHhRk7tXWjG5z/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/M9gbBkK8Dghj2/giphy.gif" width="100" />
   <h1>Hey, I'm Sneha Jindal! 👋</h1>
-  <h3>An aspiring developer with a passion for coding and problem-solving.</h3>
+  <h3>An aspiring developer and student, passionate about building and learning new technologies.</h3>
 </div>
 
 ---
@@ -18,33 +18,15 @@ I'm a dedicated student who enjoys diving deep into software development. I have
 
 ---
 
-### **Skills & Technologies**
+### **My Top Languages**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,git,vscode,mysql,bootstrap" alt="My Skills" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehajindl24&layout=compact&theme=dracula" alt="My Top Languages" />
 </div>
 
 ---
 
 ### **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehajindl24&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehajindl24&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### **Let's Connect**
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR-GMAIL-ADDRESS" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snehajindl24&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
