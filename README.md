@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/193005" alt="A soothing and calming GIF" width="100%" />
+  <img src="https://gifs.alphacoders.com/gifs/view/193005" width="100%" />
 </div>
 
 ---
