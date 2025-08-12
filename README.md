@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/193005" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <h1>Hey, I'm Sneha Jindal! 👋</h1>
+  <h1>Hey, I'm Sneha !! 👋</h1>
   <h3>An aspiring developer and student, passionate about building and learning new technologies.</h3>
 </div>
 
@@ -37,14 +37,19 @@ I'm a dedicated student who enjoys diving deep into software development. I have
 </div>
 
 ---
+### **Found My Work Helpful?**
 
-### **Let's Connect**
+If you've found something useful here, please consider giving my repositories a star or following my profile! It helps a lot and keeps me motivated.
+
+---
+
+### **Let's Connect!**
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:YOUR-GMAIL-ADDRESS" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
