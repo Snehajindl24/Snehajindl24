@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBkK8Dghj2/giphy.gif" width="100" />
-  <h1>Hey, I'm Sneha Jindal! 👋</h1>
-  <h3>An aspiring developer and student, passionate about building and learning new technologies.</h3>
+  <img src="https://gifs.alphacoders.com/gifs/view/193005" alt="A soothing and calming GIF" width="100%" />
 </div>
 
 ---
+
+<div align="center">
+  <h1>Hey, I'm Sneha Jindal! 👋</h1>
+  <h3>An aspiring developer and student, passionate about building and learning new technologies.</h3>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Snehajindl24&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Snehajindl24's Profile Views" />
