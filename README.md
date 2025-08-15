@@ -49,7 +49,7 @@ If you've found something useful here, please consider giving my repositories a 
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:YOUR-GMAIL-ADDRESS" target="_blank">
+  <a href="mailto:snehajindal24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
